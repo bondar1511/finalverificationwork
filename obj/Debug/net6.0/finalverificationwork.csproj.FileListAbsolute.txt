@@ -1,0 +1,5 @@
+C:\Users\Anna\Documents\finalverificationwork\obj\Debug\net6.0\finalverificationwork.csproj.AssemblyReference.cache
+C:\Users\Anna\Documents\finalverificationwork\obj\Debug\net6.0\finalverificationwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Documents\finalverificationwork\obj\Debug\net6.0\finalverificationwork.AssemblyInfoInputs.cache
+C:\Users\Anna\Documents\finalverificationwork\obj\Debug\net6.0\finalverificationwork.AssemblyInfo.cs
+C:\Users\Anna\Documents\finalverificationwork\obj\Debug\net6.0\finalverificationwork.csproj.CoreCompileInputs.cache
